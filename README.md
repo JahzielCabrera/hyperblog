@@ -1,2 +1,2 @@
 # hyperblog
-Repo de prueba para el curso de Git y Github de Platzi
+Este repo muestra código de prueba sobre el curso de Git y GitHub de Platzi. 
